@@ -1,0 +1,115 @@
+# vsim work.MIPS 
+# Start time: 23:31:09 on Mar 11,2022
+# Loading work.MIPS
+# Loading work.ins_memory
+# Loading work.data_memory
+# Loading work.control_unit
+# Loading work.main_decoder
+# Loading work.alu_decoder
+# Loading work.data_path
+# Loading work.pc
+# Loading work.PC_Adder
+# Loading work.shift_left
+# Loading work.adder
+# Loading work.mux
+# Loading work.Reg_file
+# Loading work.ALU
+# Loading work.sign_extention
+add wave -position insertpoint sim:/MIPS/*
+force -freeze sim:/MIPS/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/MIPS/reset 1'b1 0
+run
+force -freeze sim:/MIPS/reset St0 0
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/MIPS/reset St1 0
+run
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+run
+run
+run
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+restart
+force -freeze sim:/MIPS/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/MIPS/reset 1'b1 0
+run
+force -freeze sim:/MIPS/reset St0 0
+run
+force -freeze sim:/MIPS/reset St1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 23:33:03 on Mar 11,2022, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 0

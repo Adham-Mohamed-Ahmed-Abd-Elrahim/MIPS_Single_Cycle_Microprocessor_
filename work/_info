@@ -1,0 +1,314 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/(Mid_year_vacation)/Projects/Regular MIPS
+vadder
+Z1 !s110 1647034251
+!i10b 1
+!s100 Hdd;Ub[21I2GblWNA66V71
+Ib_H9oeOjKVA4CImW0TDzR0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647015315
+8adder.v
+Fadder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1647034251.000000
+Z5 !s107 vsim.wlf|transcript|sign_extention.v|shift_left.v|Reg_file.v|program_counter.v|Program 3_Machine Code.txt|Program 2_Machine Code.txt|Program 1_Machine Code.txt|PC_Adder.v|mux.v|MIPS.v|Main_decoder.v|Ins_memory.v|data_path.v|Data_memory.v|Control_unit.v|ALU_decoder.v|ALU.v|adder.v|
+Z6 !s90 adder.v|ALU.v|ALU_decoder.v|Control_unit.v|Data_memory.v|data_path.v|Ins_memory.v|Main_decoder.v|MIPS.v|mux.v|PC_Adder.v|Program 1_Machine Code.txt|Program 2_Machine Code.txt|Program 3_Machine Code.txt|program_counter.v|Reg_file.v|shift_left.v|sign_extention.v|transcript|vsim.wlf|
+!i113 1
+Z7 tCvgOpt 0
+vALU
+R1
+!i10b 1
+!s100 Ki;fHOn9L=@3iWQ_`32hn3
+IhRgh@=eQLmdoUDE0Ti`gD0
+R2
+R0
+w1647016233
+8ALU.v
+FALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@a@l@u
+valu_decoder
+R1
+!i10b 1
+!s100 oc<;^^`zD7JC`NTUR:Ycf1
+IEH6lY@bY^Y4MbnL^OAXZA0
+R2
+R0
+w1646554188
+8ALU_decoder.v
+FALU_decoder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vcontrol_unit
+R1
+!i10b 1
+!s100 ejbldO>g_6zk4Jz^ZVo9Q0
+Ib;D_<hmEJOT<MFIe]4S=T2
+R2
+R0
+w1647031632
+8Control_unit.v
+FControl_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vdata_memory
+R1
+!i10b 1
+!s100 4Rl_MQeand8XOlTW_^jTU2
+I0_X_9zc>AJQ@W948V57_33
+R2
+R0
+w1647015953
+8Data_memory.v
+FData_memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vdata_path
+R1
+!i10b 1
+!s100 NfLFkS:MkK>8hoI_m1b<U2
+IUbfHo:[4^1_MKo8WAkBiE3
+R2
+R0
+w1647031819
+8data_path.v
+Fdata_path.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vins_memory
+R1
+!i10b 1
+!s100 2@AOYEW6VUK;[OXmSP<1[0
+I;d<D4e]^ZK1@ohnYc2gfP2
+R2
+R0
+w1647034242
+8Ins_memory.v
+FIns_memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vmain_decoder
+R1
+!i10b 1
+!s100 ^Xi`KjVFTN8AnU=CQa7kS1
+I4^<bEb^i_L@4<I>6JWlmK0
+R2
+R0
+w1646548903
+8Main_decoder.v
+FMain_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vMIPS
+!s110 1647034256
+!i10b 1
+!s100 ]7IXA>77PV<8GP6WMmjkb0
+I<I9H1YJ0hEFXNF063GBNl0
+R2
+R0
+w1647033394
+8.\MIPS.v
+F.\MIPS.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1647034255.000000
+!s107 .\MIPS.v|
+!s90 .\MIPS.v|
+!i113 1
+R7
+n@m@i@p@s
+vmux
+R1
+!i10b 1
+!s100 mgJK>AQSCOLm78UYo5BIi2
+ITRzl4I0cCAUQlf>@6@oja3
+R2
+R0
+w1647015241
+8mux.v
+Fmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vpc
+!s110 1647031823
+!i10b 1
+!s100 abjo?bjHYnJD<Hg[51TK72
+IRE21G[75BPOa6M>eR[Rz41
+R2
+R0
+w1647020013
+8program_counter.v
+Fprogram_counter.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1647031823.000000
+!s107 sign_extention.v|shift_left.v|Reg_file.v|program_counter.v|PC_Adder.v|mux.v|Main_decoder.v|Ins_memory.v|data_path.v|Data_memory.v|Control_unit.v|ALU_decoder.v|ALU.v|adder.v|
+!s90 adder.v|ALU.v|ALU_decoder.v|Control_unit.v|Data_memory.v|data_path.v|Ins_memory.v|Main_decoder.v|mux.v|PC_Adder.v|program_counter.v|Reg_file.v|shift_left.v|sign_extention.v|
+!i113 1
+R7
+vPC_Adder
+R1
+!i10b 1
+!s100 :RgCbK=]EUaiHNHeDbo]51
+I7m`aj`Y@dSVFAFU:[WZIc1
+R2
+R0
+w1647020318
+8PC_Adder.v
+FPC_Adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@p@c_@adder
+vReg_file
+R1
+!i10b 1
+!s100 _l0P^8hdnU6nIm@YG@AjV3
+I>7GTTPD__XlF3<;A4LVd?1
+R2
+R0
+w1647015389
+8Reg_file.v
+FReg_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@reg_file
+vshift_left
+R1
+!i10b 1
+!s100 lO]XR@F59Vg@>IQBiCi]62
+I]0Z:U4FL6On1T5Re>>lMl3
+R2
+R0
+w1647015407
+8shift_left.v
+Fshift_left.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vsign_extention
+R1
+!i10b 1
+!s100 89<?DWeUG4l86hmioTREB3
+I`2lHi1XSP1>c]fhQcZ6QS0
+R2
+R0
+w1647015854
+8sign_extention.v
+Fsign_extention.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
